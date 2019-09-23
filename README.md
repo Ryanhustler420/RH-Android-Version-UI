@@ -1,3 +1,3 @@
 # RH-Android-Version-UI with Firebase
 
-##### Requirement Changed. Refactoring.
+##### Requirement Changed. Wiring up.
