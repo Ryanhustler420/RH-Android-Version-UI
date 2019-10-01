@@ -1,3 +1,3 @@
 # RH-Android-Version-UI with Firebase
 
-## Requirement Changed. Improved Location Fetching And Wiring up. Working In Database Structure And Populating Real Data's. New Requirment come in.
+## Requirement Changed. Passing Data Back And Forth as well as Wiring up. New Requirment come in.
