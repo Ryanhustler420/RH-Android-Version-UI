@@ -1,3 +1,3 @@
 # RH-Android-Version-UI with Firebase
 
-## Requirement Changed. Working on Service search and sorting. Refectoring
+## Requirement Changed. Working on Service search. Desing Destop JavaFx App
