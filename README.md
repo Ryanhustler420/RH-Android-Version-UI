@@ -4,3 +4,4 @@
 ##### Shopkeeper App Designing For Android
 ##### Made Boilerplate For ShapeShop App Android
 1. Working On Dashboard UI Fragment
+2. Working On Stocks UI Fragment
