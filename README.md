@@ -5,4 +5,5 @@
 ##### Made Boilerplate For ShapeShop App Android
 1. Working On Dashboard UI Fragment
 2. Working On Stocks UI Fragment
-3. Working On Service UI Fragment
+3. Working On Service UI Fragment - Not yet done
+4. Working On Single Product UI Fragment
