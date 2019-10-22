@@ -7,3 +7,4 @@
 2. Working On Stocks UI Fragment
 3. Working On Service UI Fragment - Not yet done
 4. Working On Single Product UI Fragment
+5. Working On Single Product Designing With Stock Adaptor Changes
