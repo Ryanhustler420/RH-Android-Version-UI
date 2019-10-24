@@ -9,3 +9,4 @@
 4. Working On Single Product UI Fragment
 5. Working On Single Product Designing With Stock Adaptor Changes
 6. Completing Activity Chain
+7. Refectoring Payment Activity
