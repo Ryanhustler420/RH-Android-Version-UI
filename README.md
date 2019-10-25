@@ -10,3 +10,4 @@
 5. Working On Single Product Designing With Stock Adaptor Changes
 6. Completing Activity Chain
 7. Refectoring Payment Activity
+8. Working On Stripe Payment SDK
