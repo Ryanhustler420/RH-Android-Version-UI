@@ -18,3 +18,4 @@
 13. Making Companty Co. Repos For Companies Into And Thier Products With QR
 14. Adding Company Profile Serach And Respective Product Search
 15. Refectoring UI Stuff
+16. Single Company Profile UI Working
