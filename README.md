@@ -20,3 +20,4 @@
 15. Refectoring UI Stuff
 16. Single Company Profile UI Working
 17. Almost Done, Working On Existing UI
+18. Mapping Required Fields For Database into App
