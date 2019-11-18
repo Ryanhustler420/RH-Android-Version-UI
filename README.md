@@ -23,3 +23,4 @@
 18. Mapping Required Fields For Database into App
 19. Assigning Id's To XML elements
 20. moving to databse for refactoring purposs. after that we change layout little bit more
+21. working on remaing activities like edit product and edit profile and edit shop
