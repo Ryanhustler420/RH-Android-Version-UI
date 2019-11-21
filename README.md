@@ -25,3 +25,4 @@
 20. moving to databse for refactoring purposs. after that we change layout little bit more
 21. working on remaing activities like edit product and edit profile and edit shop
 22. About To Finish Activity Transaction Stuck On Shops Edit And Payment Fragment.
+23. Finish Shop Details Activity.
