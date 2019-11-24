@@ -28,3 +28,5 @@
 23. Finish Shop Details Activity.
 24. Mocking Fake Data And Stimulating
 25. Mocking done in dashboard fragment
+26. Creating POJO and testing almost every activity and fragment
+27. Finished Dashboard Fragment Mock
