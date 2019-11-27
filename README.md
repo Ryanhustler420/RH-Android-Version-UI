@@ -30,3 +30,4 @@
 25. Mocking done in dashboard fragment
 26. Creating POJO and testing almost every activity and fragment
 27. Finished Dashboard Fragment Mock
+28. Spliting document into chunks for better result, like shopFirstHalf, shopSecondHalf ...
