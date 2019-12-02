@@ -33,3 +33,4 @@
 28. Spliting document into chunks for better result, like shopFirstHalf, shopSecondHalf ...
 29. Got offer Idea to implement. spliting product into two chunk.
 30. WOrking in caching stock objects to local DB using Tiny DB. for fast performance.
+31. Working of the payment side
