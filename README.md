@@ -35,3 +35,4 @@
 30. WOrking in caching stock objects to local DB using Tiny DB. for fast performance.
 31. Working of the payment side
 32. Spliting ImportFirstChunk And ImportSecondChunk Model
+33. Made Company Profile's Product Filterable.
