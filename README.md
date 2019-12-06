@@ -36,3 +36,4 @@
 31. Working of the payment side
 32. Spliting ImportFirstChunk And ImportSecondChunk Model
 33. Made Company Profile's Product Filterable.
+34. Working on CompanyFirstHalf and CompanySecondHalf.
