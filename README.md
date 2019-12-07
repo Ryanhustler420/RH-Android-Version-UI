@@ -37,3 +37,4 @@
 32. Spliting ImportFirstChunk And ImportSecondChunk Model
 33. Made Company Profile's Product Filterable.
 34. Working on CompanyFirstHalf and CompanySecondHalf.
+35. Thinking for non-branded registration solution and croma team development
