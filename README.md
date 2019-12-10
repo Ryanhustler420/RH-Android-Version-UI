@@ -39,4 +39,4 @@
 34. Working on CompanyFirstHalf and CompanySecondHalf.
 35. Thinking for non-branded registration solution and croma team development
 36. Making Import Product Functional
-37. Got some ads idea. when new product launch and how to show them and ask if they like than show them respective shops
+37. Got some ads idea. when new product launch and how to show them and ask if they like than show them respective SK's
