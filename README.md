@@ -42,3 +42,4 @@
 37. Got some ads idea. when new product launch and how to show them and ask if they like than show them respective SK's
 38. Doing some MVP stuff. Though that's nessessory.
 39. SharShop is Almost Done.
+40. Refectoring Code
