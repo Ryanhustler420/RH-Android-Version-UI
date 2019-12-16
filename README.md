@@ -43,3 +43,4 @@
 38. Doing some MVP stuff. Though that's nessessory.
 39. SharShop is Almost Done.
 40. Refectoring Code
+41. Fixing Bugs
