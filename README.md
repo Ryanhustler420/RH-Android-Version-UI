@@ -44,3 +44,4 @@
 39. SharShop is Almost Done.
 40. Refectoring Code
 41. Fixing Bugs
+42. Fixing UI Issues
