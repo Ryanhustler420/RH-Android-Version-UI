@@ -47,3 +47,5 @@
 42. Fixing UI Issues
 43. Thing is going wrong. WORKING...! :(
 44. Finding Log management api for error monitoring. APP CRASHING WHEN STATING AFTER FEW HOURS.
+45. Using Splunk for error log management. it's working.
+46. Making Firebase cloud function for stripe payment token receiver.
