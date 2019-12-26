@@ -50,3 +50,4 @@
 45. Using Splunk for error log management. it's working.
 46. Making Firebase cloud function for stripe payment token receiver.
 47. About to complete and wrap up. SK side. few things still need to fix
+49. Got More ideas of currency change for other countries.
