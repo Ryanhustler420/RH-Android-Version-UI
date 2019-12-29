@@ -52,3 +52,4 @@
 47. About to complete and wrap up. SK side. few things still need to fix
 49. Got More ideas of currency change for other countries.
 50. deploy a node server with static pages. about the software. few more day required to populate that site with good thought or mission or goal of the application. maybe we can add a screen shot of app.
+51. Push Plan Route To Server For Dynamic Price Card Loading.
