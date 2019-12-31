@@ -53,4 +53,4 @@
 49. Got More ideas of currency change for other countries.
 50. deploy a node server with static pages. about the software. few more day required to populate that site with good thought or mission or goal of the application. maybe we can add a screen shot of app.
 51. Push Plan Route To Server For Dynamic Price Card Loading.
-52. Made Plans Dynamic and Init Plans as well, later we add for contributors plans as well.
+52. Made Plans Dynamic and Init Plans as well, later we add for contributors plans as well. (2019 ends here.)
