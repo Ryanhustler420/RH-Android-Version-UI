@@ -56,3 +56,4 @@
 52. Made Plans Dynamic and Init Plans as well, later we add for contributors plans as well. (2019 ends here.)
 53. Shop Side Clear Prototyping Now Planing For Wiring up With Firebase. reviewing todo list.
 54. Half TODO done ShapeShop
+55. Almost Finishing TODO code for firebase implementation
