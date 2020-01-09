@@ -57,3 +57,4 @@
 53. Shop Side Clear Prototyping Now Planing For Wiring up With Firebase. reviewing todo list.
 54. Half TODO done ShapeShop
 55. Almost Finishing TODO code for firebase implementation
+56. Had fever, had to pause! coninued working on this. very soon we'll hope over to contribution network with few companies
