@@ -58,3 +58,4 @@
 54. Half TODO done ShapeShop
 55. Almost Finishing TODO code for firebase implementation
 56. Had fever, had to pause! coninued working on this. very soon we'll hope over to contribution network with few companies
+57. Design Ads Explorer For Global Ads Attatched With Products RID. and Working With Service Which Will Run in the background for deleteting images or long time taking jobs.
