@@ -63,3 +63,4 @@
 59. Getting All The Requirement Functionallity Points As Text. From Notes and Saved File.
 60. Got Al The Requirement For Now And For Future Features, Designing Raisehand Contribution Env. 
 61. Start Design Repo. App UI
+62. Almost All Activities Created. But Still Making It Little Bit Different form shapeShop
