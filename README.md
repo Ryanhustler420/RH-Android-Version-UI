@@ -66,3 +66,4 @@
 62. Almost All Activities Created. But Still Making It Little Bit Different form shapeShop
 63. UI Almost Done, Because we are using Fragment Very Often
 64. UI Done. Fixing Again Some of Layout before hope over to firebase
+65. Making Payment Stript PreBuild UI. Later Merge That To Repo. App
