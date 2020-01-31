@@ -68,3 +68,5 @@
 64. UI Done. Fixing Again Some of Layout before hope over to firebase
 65. Making Payment Stript PreBuild UI. Later Merge That To Repo. App
 66. Almost There Because it was lot of work from both side client and server
+67. Had some issue with stripe depandency which cause the empty wallet error and cause the application to crash. #FIX, so no need to add this additional functionality. Crap. 48 hr. Waste.
+68. Create Custom Toast, For Raisehand Repository Env.
