@@ -71,3 +71,4 @@
 67. Had some issue with stripe depandency which cause the empty wallet error and cause the application to crash. #FIX, so no need to add this additional functionality. Crap. 48 hr. Waste.
 68. Create Custom Toast, For Raisehand Repository Env.
 69. Code Review and Lookup on Raisehand Env 
+70. Refactoring Firebase DB.
