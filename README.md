@@ -73,3 +73,4 @@
 69. Code Review and Lookup on Raisehand Env 
 70. Refactoring Firebase DB.
 71. Refactoring Firebase Db Done. Moving Forward To Complete Raisehand Env Project. 
+72. Almost Done To Merge The Fresh DB to Firebase and Wiring App To The Internet
