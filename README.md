@@ -75,3 +75,4 @@
 71. Refactoring Firebase Db Done. Moving Forward To Complete Raisehand Env Project. 
 72. Almost Done To Merge The Fresh DB to Firebase and Wiring App To The Internet
 73. Again and Finally Come To Algolia And Kinda Putting all the parts togather.
+74. Huraay Finally Done With Algolia As well.. Kinda Happy! Anyways Moving Forward..! Phew... :)
