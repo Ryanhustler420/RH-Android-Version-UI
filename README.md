@@ -76,3 +76,4 @@
 72. Almost Done To Merge The Fresh DB to Firebase and Wiring App To The Internet
 73. Again and Finally Come To Algolia And Kinda Putting all the parts togather.
 74. Huraay Finally Done With Algolia As well.. Kinda Happy! Anyways Moving Forward..! Phew... :)
+75. Wiring Up To Database To check If Everything Working as expected.
