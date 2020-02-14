@@ -79,3 +79,4 @@
 75. Wiring Up To Database To check If Everything Working as expected.
 76. review previous idea and destroyed this because thats already implemeted. no longer in use.
 77. Start Commenting Code and Refectroing Code...
+78. Replacing Network Library With Retrofit
