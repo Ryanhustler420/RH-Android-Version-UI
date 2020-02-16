@@ -80,3 +80,4 @@
 76. review previous idea and destroyed this because thats already implemeted. no longer in use.
 77. Start Commenting Code and Refectroing Code...
 78. Replacing Network Library With Retrofit
+79. Connecting With Firebase And Firestore.. few more step to go
