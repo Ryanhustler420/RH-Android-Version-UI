@@ -84,3 +84,4 @@
 80. Working on Currency API and making our own JSON file just for Currency Collection. still moving...
 81. Bug Trigger In ChipInputLayout. Fixing That.. :(
 82. Syncing Firebase Database with Algolia For Testing
+83. Algolia Done and working, Making CrossSpareBinding Method Done that too.. 
