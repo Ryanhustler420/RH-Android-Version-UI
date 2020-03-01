@@ -86,3 +86,4 @@
 82. Syncing Firebase Database with Algolia For Testing
 83. Algolia Done and working, Making CrossSpareBinding Method Done that too.. 
 84. Testing Raisehand env.
+85. Working for currencies support. STUCK.... :(
