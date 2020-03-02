@@ -87,3 +87,4 @@
 83. Algolia Done and working, Making CrossSpareBinding Method Done that too.. 
 84. Testing Raisehand env.
 85. Working for currencies support. STUCK.... :(
+86. Almost There and fixing some bugs.. and put to testing on Fire Lab...
