@@ -89,3 +89,4 @@
 85. Working for currencies support. STUCK.... :(
 86. Almost There and fixing some bugs.. and put to testing on Fire Lab...
 87. Final Wiring And Checkup Past Task Wrapup
+89. Bug Bug Bug, Lot Refectore For Cloud Function, Phew done... :D
