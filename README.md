@@ -93,3 +93,4 @@
 90. Got little more feature to work on... at the same time we gonna refactor much more so that we can use these code to others projects as well.
 91. Creating Pitch Deck.
 92. Refactor Lot For Other Application Use. Still Moving
+93. Restructure Every Past Plan and Ceneterlized that.
