@@ -94,3 +94,4 @@
 91. Creating Pitch Deck.
 92. Refactor Lot For Other Application Use. Still Moving
 93. Restructure Every Past Plan and Ceneterlized that.
+94. Step down to Raisehand Shopkeeper Partly Completed. Working on Update Product Functionality, And making functionality Separated as well
