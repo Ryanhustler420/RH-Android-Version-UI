@@ -98,3 +98,4 @@
 95. Fixing Few Bugs, Ah lot's off bug around
 96. Back To Raisehand Repository Env. Refactoring.....
 97. Working on AdsPoll Algorithm, Cleaned Biz Plan, Preapred Pitch Deck Points
+98. AdsPoll Algorithm has been created, successfully, now doing refactoring and making big picture design
